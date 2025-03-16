@@ -73,4 +73,4 @@ Les erreurs cités précédemment seront bien sûr corrigées
 
 ## License
 
-Ren'Py Novel Translator est sous licence `CC-BY-SA 4.0`. Veullez voir la section [license](CC-BY-SA-4.0-1-ov-file) ou directement depuis [LICENSE-CC-BY-SA.txt](/LICENSE-CC-BY-SA.txt)
+Ren'Py Novel Translator est sous licence `CC-BY-SA 4.0`. Veullez lire [LICENSE-CC-BY-SA.txt](/LICENSE-CC-BY-SA.txt)
